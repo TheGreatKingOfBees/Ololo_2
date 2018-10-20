@@ -11,3 +11,4 @@ cout<<"a/b="<<a<<endl;
 }
 return 0;
 }
+â cpp
